@@ -1,0 +1,80 @@
+body{
+  padding:15px;
+  background-color:#cce6ff;
+  
+  background-image: url("http://all4desktop.com/data_images/original/4248087-cloud.jpg");
+  
+  
+  /*opacity:0.3;*/
+}
+
+.container-fluid{
+  /*border:dotted;*/
+}
+
+#heading_row{
+  margin-bottom:3%;
+	background: linear-gradient(to bottom, #0033cc 0%, #ffffff 100%);
+  border-style: solid;
+  border-width:2px;
+  border-color:#0033cc;
+  height:20%;
+  padding-left:10%;
+}
+
+#heading_pic_holder{
+	border-style:groove;
+	height:100%;
+	width:auto;
+	
+} 
+
+#heading_pic_1{
+  width:inherit;
+  height:inherit;
+  /*border:solid;*/
+  padding-top:3%;
+  
+}
+#not_pic{
+  height:100%;
+  /*border:solid;*/
+  padding:0%;
+  
+}
+h1{
+	font-size:300%;
+}
+#pic_holder{
+  padding: 20px 10px 20px 10px;
+  margin-left: 100px;
+  margin-right:100px;
+  background: linear-gradient(to bottom, #0033cc 0%, #ffffff 100%);
+}
+#mt_pic{
+  display:block;
+  width: 50%;
+  margin: auto;
+  border-radius:50%;
+}
+
+#pic_caption{
+  font-weight:bold;
+}
+
+#mt_list_header{
+  margin: 40px 100px 10px 100px;
+  text-align:center;
+}
+
+ul{
+  width:80%;
+  margin:auto;
+  background-color:#cce6ff;
+  list-style-type:square;
+  font-family: Verdana, sans-serif;
+    
+}
+li{
+  padding-left:0px;
+}
